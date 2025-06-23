@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/PracticalTest.Client/bin
+/PracticalTest.Client/obj
+/PracticalTest.Domain/bin
+/PracticalTest.Domain/obj
+/PracticalTest.External/bin
+/PracticalTest.External/obj
+/PracticalTest.Service/bin
+/PracticalTest.Service/obj
+/PracticalTest.Tests/bin
+/PracticalTest.Tests/obj
